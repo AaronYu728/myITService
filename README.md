@@ -13,7 +13,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/it-service-website.git
+git clone https://github.com/AaronYu728/myITService.git
 
 ```
   
