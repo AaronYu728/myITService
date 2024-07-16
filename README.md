@@ -18,3 +18,6 @@ git clone https://github.com/AaronYu728/myITService.git
 ```
   
 2. Open index.html in your web browser to view the website.
+
+
+![image](myweb.png)
